@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<All>         
+        <task>
+              <question>What is the biggest art gallery in the world?</question>
+              <option>Rebeldingo's</option>
+              <option>Palace Museum</option>
+              <option>Gold Coast art gallery</option>
+			  <answer>Palace Museum</answer>
+        </task>         
+        <task>
+              <question>Rebeldingo's most famus peice</question>
+              <option>headphones girl</option>
+              <option>Gohan</option>
+              <option>Undead Warlock</option>
+			  <answer>Undead Warlock</answer>
+        </task>         
+        <task>
+              <question>Rebeldingo's second most famus peice </question>
+              <option>headphones girl</option>
+              <option>Gohan</option>
+              <option>Undead Warlock</option>
+			  <answer>Gohan</answer>        </task> 
+		<task>
+              <question>Rebeldingo's thired most famus peice</question>
+              <option>headphones girl</option>
+              <option>Gohan</option>
+              <option>Undead Warlock</option>
+			  <answer>headphones girl</answer>
+        </task>
+		<task>
+              <question>Who is Rebeldingo</question>
+              <option>Primaccord</option>
+              <option>Random bum on the street</option>
+              <option>Caleb</option>
+			  <answer>Primaccord</answer>
+        </task>          
+</All>
